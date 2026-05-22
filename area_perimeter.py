@@ -36,7 +36,7 @@ while keep_going == "":
     # output calculations
     print()
     print(f"Perimeter: {perimeter} units")
-    print(f"Area: {area} units")
+    print(f"Area: {area} square units")
 
     # ask user if they wish to continue
     keep_going = input("Press <enter> or to keep going or any key to quit. ")
